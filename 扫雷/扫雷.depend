@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1627820316 source:d:\code\c语言实践大作业\扫雷\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<graphics.h>
+	<string.h>
+
